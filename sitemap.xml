@@ -234,14 +234,6 @@
     
       
       <url>
-        <loc>https://genicsblog.com/five-css-methodologies-you-need-to-know-in-2022</loc>
-        
-          <lastmod>2022-01-21T00:00:00+00:00</lastmod>
-        
-      </url>
-    
-      
-      <url>
         <loc>https://genicsblog.com/kira/how-to-build-a-rest-api-using-nodejs</loc>
         
           <lastmod>2022-01-23T00:00:00+00:00</lastmod>
@@ -503,7 +495,7 @@
       <url>
         <loc>https://genicsblog.com/series/android-development</loc>
         
-          <lastmod>2022-06-28T18:24:03+00:00</lastmod>
+          <lastmod>2022-06-29T07:06:10+00:00</lastmod>
         
       </url>
     
@@ -511,7 +503,7 @@
       <url>
         <loc>https://genicsblog.com/series/android-library-testing</loc>
         
-          <lastmod>2022-06-28T18:24:03+00:00</lastmod>
+          <lastmod>2022-06-29T07:06:10+00:00</lastmod>
         
       </url>
     
@@ -522,7 +514,7 @@
       <url>
         <loc>https://genicsblog.com/tool/frontmatter-generator</loc>
         
-          <lastmod>2022-06-28T18:24:03+00:00</lastmod>
+          <lastmod>2022-06-29T07:06:10+00:00</lastmod>
         
       </url>
     
@@ -530,7 +522,7 @@
       <url>
         <loc>https://genicsblog.com/tool/thumbnail-generator</loc>
         
-          <lastmod>2022-06-28T18:24:03+00:00</lastmod>
+          <lastmod>2022-06-29T07:06:10+00:00</lastmod>
         
       </url>
     
@@ -974,12 +966,6 @@
   
     
     <url>
-      <loc>https://genicsblog.com/author/abhiraj/</loc>
-      
-    </url>
-  
-    
-    <url>
       <loc>https://genicsblog.com/author/kira/</loc>
       
     </url>
@@ -987,6 +973,12 @@
     
     <url>
       <loc>https://genicsblog.com/author/adityasingh/</loc>
+      
+    </url>
+  
+    
+    <url>
+      <loc>https://genicsblog.com/author/abhiraj/</loc>
       
     </url>
   
