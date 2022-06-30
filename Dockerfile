@@ -3,7 +3,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 ENV JEKYLL_ENV=dev
 WORKDIR /site
 RUN gem install jekyll bundler
-RUN git clone https://github.com/genicsblog/theme-files
+RUN git clone https://github.com/gannapureddynavya/themes
 RUN mv theme-files/* .
 RUN rm -rf theme-files
 RUN npm install
